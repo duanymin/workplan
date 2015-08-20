@@ -13,6 +13,6 @@ simple workplan for Android
 
 ###recyclerview及cardview
 
-####管理员帐号 admin 
+####管理员帐号 admin abc123456
 
 祝好运
