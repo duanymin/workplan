@@ -5,7 +5,7 @@ simple workplan for Android
 
 项目中的第三方内容主要有：
 
-###leancloud - 用于实现远程数据持久化及消息推送
+###leancloud - 用于实现数据持久化及消息推送
 
 ###otto - 用于网络请求和UI层的解耦
 
