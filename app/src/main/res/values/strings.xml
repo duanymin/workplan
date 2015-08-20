@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">工作排期</string>
+    <string name="openDrawerContentDescRes">打开</string>
+    <string name="closeDrawerContentDescRes">关闭</string>
+    <string name="action_settings">设置</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_project">ProjectActivity</string>
+</resources>
